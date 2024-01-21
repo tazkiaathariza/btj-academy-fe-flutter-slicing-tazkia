@@ -9,12 +9,6 @@ pertama ditekan maka akan berpindah halaman ke Detail.
 bisa discroll. Pada bagian kanan atas navigation bar, terdapat tombol close yang jika ditekan akan membawa user
 kembali ke halaman utama.
 
-## Hasil
-
-![hasil](/assets/img/ss1.jpeg)
-
-![hasil2](/assets/img/ss2.jpeg)
-
 ## Getting started
 1. Download atau clone repository ini :
 ```
@@ -22,3 +16,9 @@ https://github.com/tazkiaathariza/btj-academy-fe-flutter-slicing-tazkia
 ```
 2. Install seluruh dependencies yang diperlukan.
 2. Jalankan aplikasi.
+
+## Hasil
+![hasil2](/assets/img/ss2.jpeg)
+
+![hasil](/assets/img/ss1.jpeg)
+
